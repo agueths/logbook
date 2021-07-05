@@ -14,4 +14,3 @@
 gem install rails
 ```
 
-
