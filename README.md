@@ -13,7 +13,7 @@ from Jesper L. Andersen [On Logbooks](https://medium.com/@jlouis666/on-logbooks-
 LICENSE
 ---------
 
-    Copyright (C)  2020  Alexandre Gueths.
+    Copyright (C)  2021  Alexandre Gueths.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
